@@ -4,7 +4,7 @@ exports.handler = async event => {
       statusCode: 301,
       headers: {
         'cache-control': 'public, max-age=0, must-revalidate',
-        location: 'https://optionsfeed.club/boil-is-severely-inflamed-3/30'
+        location: 'https://optionsfeed.club/this-is-a-really-big-pimple-between-his-eyes/13/'
       }
     }
   } else {
