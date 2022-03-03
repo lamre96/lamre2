@@ -4,7 +4,7 @@ exports.handler = async event => {
       statusCode: 301,
       headers: {
         'cache-control': 'public, max-age=0, must-revalidate',
-        location: 'https://optionsfeed.club/this-is-a-really-big-pimple-between-his-eyes/13/'
+        location: 'https://viralonce.xyz/massive-abscess-near-left-ear'
       }
     }
   } else {
