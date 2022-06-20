@@ -4,7 +4,7 @@ exports.handler = async event => {
       statusCode: 301,
       headers: {
         'cache-control': 'public, max-age=0, must-revalidate',
-        location: 'https://viralonce.xyz/massive-abscess-near-left-ear'
+        location: ''
       }
     }
   } else {
