@@ -4,7 +4,7 @@ exports.handler = async event => {
       statusCode: 301,
       headers: {
         'cache-control': 'public, max-age=0, must-revalidate',
-        location: ''
+        location: 'https://likeifyouloveearcheology.netlify.app/post-1'
       }
     }
   } else {
